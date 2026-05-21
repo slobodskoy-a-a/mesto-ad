@@ -7,4 +7,4 @@ Live-server является расширением VSCode
 ## Публикация
 
 - Команда для сборки: `npm run build`
-- Ссылка на проект: https://username.github.io/repository-name/
+- Ссылка на проект: https://slobodskoy-a-a.github.io/mesto-ad/
